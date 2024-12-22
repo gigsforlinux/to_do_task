@@ -1,0 +1,18 @@
+[
+    {
+        "task": "ho to create a to do app",
+        "done": false
+    },
+    {
+        "task": "test task 4",
+        "done": true
+    },
+    {
+        "task": "test task5",
+        "done": false
+    },
+    {
+        "task": "tesk task 7",
+        "done": false
+    }
+]
